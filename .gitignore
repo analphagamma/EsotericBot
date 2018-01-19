@@ -1,0 +1,4 @@
+*.json
+training_data/
+tweets/
+__pycache__/
